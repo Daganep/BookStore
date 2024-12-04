@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31872098640",
+    "project_id": "bookstore-1adc3",
+    "storage_bucket": "bookstore-1adc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31872098640:android:21e3708bcd3472c2b28c55",
+        "android_client_info": {
+          "package_name": "com.openkin.bookstoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD44QFx1HSmYQKg4OZFFGEIk9d7_rIdWUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
