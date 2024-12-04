@@ -19,9 +19,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val fs = Firebase.firestore
-//        fs.collection("books")
-//            .document()
-//            .set()
         enableEdgeToEdge()
         setContent {
             BookStoreAppTheme {
